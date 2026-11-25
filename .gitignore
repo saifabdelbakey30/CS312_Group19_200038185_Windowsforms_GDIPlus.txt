@@ -1,1 +1,18 @@
-
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vscode/
+*.log
+*.tmp
+_ReSharper*/
+*.DotSettings.user
+packages/
